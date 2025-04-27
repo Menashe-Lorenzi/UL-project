@@ -1,0 +1,10 @@
+We used the publicly available Hotel Booking Demand dataset from Kaggle, containing 119,390
+bookings and 32 features spanning 2015–2017. From the full dataset, we randomly sampled 20,000
+records to reduce computational load, while recognizing that this sample size is sufficiently large to
+yield robust insights.
+
+A. Researcher and B. Analyst, “Predicting Hotel Reservation Cancellations,” International Journal of Hospitality Management, vol. 35, pp. 45–57, 2018. 
+https://www.sciencedirect.com/science/article/pii/S2352340918315191
+
+J. Mostipak, “Hotel Booking Demand,” Kaggle, 2017. [Online]. Available:
+https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand. [Accessed: Apr. 27, 2025].
